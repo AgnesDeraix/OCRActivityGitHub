@@ -1,0 +1,15 @@
+Bonjour à tous, 
+
+Dans ce fichier je compte collecter toutes les commandes Git / Github dont j'ai eu l'occasion de me servir: 
+
+- git init: pour créer un repository Git
+- git add: pour ajouter un fichier à l'index Git
+- git clone: cloner / importer un repository
+- git pull origin master: importer une modification sur ma machine
+- git push origin master: exporter vers github
+- git status: regarder le statut du repository
+- git log: voir les différents commit du repository
+- git commit -m: écrire le message du commit
+- git commit -am: ajouter un fichier indexé au commit et laisser un message
+- 
+- to be continued... 
